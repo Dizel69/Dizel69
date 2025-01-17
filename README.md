@@ -11,8 +11,6 @@
 
 - 🤝 Обучаюсь на четвёртом курсе ТвГУ [ECM_AND_Program](https://github.com/Dizel69/ECM_AND_Program)
 
-- ⚡ Интересный факт **Любитель Спортзала**
-
 📫 Связаться со мной: 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Denis69r)
 [![Telegram](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/dizel69l) </h3>
