@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dizel69&label=Profile%20views&color=0e75b6&style=flat" alt="dizel69" /> </p>
 
-- 🔭 Изучаю различные технологии [OtherPrograms](https://github.com/Dizel69/OtherPrograms)
-
 - 🤝 Обучаюсь на четвёртом курсе ТвГУ [ECM_AND_Program](https://github.com/Dizel69/ECM_AND_Program)
 
 - 🔥 изучаю Глобокое и машинное обучение [DeepLearning](https://github.com/Dizel69/DeepLearning)
 
-- 📚 Изучаю Ansible [AnsiblePractice](https://github.com/Dizel69/AnsiblePractice)
-
 - 🌱 Пишу Диплом по банковскому скорингу [BankScoring](https://github.com/Dizel69/BankScoring)
+
+- 🔭 Изучаю различные технологии [OtherPrograms](https://github.com/Dizel69/OtherPrograms)
+
+- 📚 Изучаю Ansible [AnsiblePractice](https://github.com/Dizel69/AnsiblePractice)
 
 📫 Связаться со мной: 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Denis69r)
