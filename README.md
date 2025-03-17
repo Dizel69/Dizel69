@@ -13,7 +13,7 @@
 
 - 🔥 изучаю Глобокое и машинное обучение [DeepLearning](https://github.com/Dizel69/DeepLearning)
 
-- 📚 Изучаю Ansible [AnsublePractice](https://github.com/Dizel69/AnsiblePractice)
+- 📚 Изучаю Ansible [AnsiblePractice](https://github.com/Dizel69/AnsiblePractice)
 
 - 🌱 Пишу Диплом по банковскому скорингу [BankScoring](https://github.com/Dizel69/BankScoring)
 
