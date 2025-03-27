@@ -9,7 +9,7 @@
 
 - 🤝 Обучаюсь на четвёртом курсе ТвГУ [ECM_AND_Program](https://github.com/Dizel69/ECM_AND_Program)
 
-- 🔥 изучаю Глобокое и машинное обучение [DeepLearning](https://github.com/Dizel69/DeepLearning)
+- 🔥 изучаю Глубокое и машинное обучение [DeepLearning](https://github.com/Dizel69/DeepLearning)
 
 - 🌱 Пишу Диплом по банковскому скорингу [BankScoring](https://github.com/Dizel69/BankScoring)
 
