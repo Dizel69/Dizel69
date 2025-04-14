@@ -2,7 +2,7 @@
 <h3 align="center">Я начинающий DevOps-инженер, студент Тверского Государственного Университета.</h3>
 <h3 align="center"> Увлекаюсь автоматизацией, инфраструктурой как кодом и оптимизацией процессов.</h3>
 <h3 align="center"> Постоянно изучаю новые технологии, развиваю свои навыки в Python, Linux и облачных сервисах. </h3>
-<h3 align="center"> Сейчас изучаю: Docker и Ansible. </h3>
+<h3 align="center"> Сейчас изучаю: Docker. </h3>
 <h3 align="center"> Моя цель — создавать надежные и масштабируемые системы, которые работают, как часы. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dizel69&label=Profile%20views&color=0e75b6&style=flat" alt="dizel69" /> </p>
