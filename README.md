@@ -15,7 +15,7 @@
 
 - 🔭 Изучаю различные технологии [OtherPrograms](https://github.com/Dizel69/OtherPrograms)
 
-- 📚 Веб-приложение "Помощник Старосты" [University_Telegram_Sheduler]([https://github.com/Dizel69/AnsiblePractice](https://github.com/Dizel69/University_Telegram_Sheduler))
+- 📚 Веб-приложение "Помощник Старосты" [University_Telegram_Sheduler](https://github.com/Dizel69/University_Telegram_Sheduler)
 
 📫 Связаться со мной: 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Denis69r)
