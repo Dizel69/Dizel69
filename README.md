@@ -31,7 +31,7 @@ DevOps-инженер и разработчик: автоматизирую ин
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=dizel69&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-api.vercel.app/?username=dizel69&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -55,8 +55,8 @@ DevOps-инженер и разработчик: автоматизирую ин
   <a href="https://github.com/Dizel69/University_Telegram_Sheduler">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dizel69&repo=University_Telegram_Sheduler&theme=bear&hide_border=true" alt="University Telegram Scheduler" />
   </a>
-  <a href="https://github.com/Dizel69/Infra-XSoft">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dizel69&repo=Infra-XSoft&theme=bear&hide_border=true" alt="Infra-XSoft" />
+  <a href="https://github.com/Dizel69/ECM_AND_Program">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dizel69&repo=ECM_AND_Program&theme=bear&hide_border=true" alt="ECM_AND_Program" />
   </a>
 </p>
 
