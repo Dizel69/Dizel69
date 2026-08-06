@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=680&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Dizel;%D0%94%D0%B5%D0%B2%D0%BE%D0%BF%D1%81+%C2%B7+Python+%C2%B7+Go+%C2%B7+ML;%D0%98%D0%BD%D1%84%D1%80%D0%B0+%D0%BA%D0%B0%D0%BA+%D0%BA%D0%BE%D0%B4+%D0%B8+%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4500&pause=2500&color=2F81F7&center=true&vCenter=true&width=720&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Dizel;%D0%94%D0%B5%D0%B2%D0%BE%D0%BF%D1%81+%C2%B7+Python+%C2%B7+Go+%C2%B7+ML;%D0%98%D0%BD%D1%84%D1%80%D0%B0+%D0%BA%D0%B0%D0%BA+%D0%BA%D0%BE%D0%B4+%D0%B8+%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,16 +22,16 @@ DevOps-инженер и разработчик: автоматизирую ин
 ### В цифрах
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dizel69&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E&bg_color=00000000" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizel69&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=2F81F7&text_color=8B949E&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dizel69&theme=bear&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&locale=ru" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dizel69&layout=compact&langs_count=8&theme=bear&hide_border=true&locale=ru" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dizel69&theme=transparent&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dizel69&theme=bear&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dizel69&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=dizel69&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -44,19 +44,19 @@ DevOps-инженер и разработчик: автоматизирую ин
 
 <p align="center">
   <a href="https://github.com/Dizel69/microservice-anomaly-monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dizel69&repo=microservice-anomaly-monitor&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E&bg_color=00000000" alt="microservice-anomaly-monitor" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dizel69&repo=microservice-anomaly-monitor&theme=bear&hide_border=true" alt="microservice-anomaly-monitor" />
   </a>
   <a href="https://github.com/Dizel69/BankScoring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dizel69&repo=BankScoring&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E&bg_color=00000000" alt="BankScoring" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dizel69&repo=BankScoring&theme=bear&hide_border=true" alt="BankScoring" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Dizel69/University_Telegram_Sheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dizel69&repo=University_Telegram_Sheduler&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E&bg_color=00000000" alt="University Telegram Scheduler" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dizel69&repo=University_Telegram_Sheduler&theme=bear&hide_border=true" alt="University Telegram Scheduler" />
   </a>
   <a href="https://github.com/Dizel69/Infra-XSoft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dizel69&repo=Infra-XSoft&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E&bg_color=00000000" alt="Infra-XSoft" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dizel69&repo=Infra-XSoft&theme=bear&hide_border=true" alt="Infra-XSoft" />
   </a>
 </p>
 
@@ -135,9 +135,9 @@ DevOps-инженер и разработчик: автоматизирую ин
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dizel69/Dizel69/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dizel69/Dizel69/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Dizel69/Dizel69/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dizel69/Dizel69/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dizel69/Dizel69/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Dizel69/Dizel69/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
